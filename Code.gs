@@ -4,4 +4,5 @@ function onOpen() {
   .addItem("Get the Weathahh", 'goGetWeathahh')
   .addSeparator()
   .addToUi();
+  //TEST
 }
